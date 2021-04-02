@@ -1,0 +1,2 @@
+# WorldMapGenerator
+ワールドマップを生成
